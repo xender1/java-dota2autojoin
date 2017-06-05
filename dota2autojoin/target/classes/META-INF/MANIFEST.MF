@@ -1,0 +1,21 @@
+Manifest-Version: 1.0
+Built-By: keilt
+Class-Path: lib/spring-core-4.3.8.RELEASE.jar lib/commons-logging-1.2.
+ jar lib/spring-messaging-4.3.8.RELEASE.jar lib/spring-beans-4.3.8.REL
+ EASE.jar lib/spring-context-4.3.8.RELEASE.jar lib/spring-expression-4
+ .3.8.RELEASE.jar lib/spring-web-4.3.8.RELEASE.jar lib/spring-aop-4.3.
+ 8.RELEASE.jar lib/spring-websocket-4.3.8.RELEASE.jar lib/jetty-server
+ -9.4.0.RC3.jar lib/javax.servlet-api-3.1.0.jar lib/jetty-http-9.4.0.R
+ C3.jar lib/jetty-util-9.4.0.RC3.jar lib/jetty-io-9.4.0.RC3.jar lib/je
+ tty-servlet-9.4.0.RC3.jar lib/jetty-security-9.4.0.RC3.jar lib/javaee
+ -api-7.0.jar lib/javax.mail-1.5.0.jar lib/activation-1.1.jar lib/java
+ x.websocket-api-1.1.jar lib/tyrus-container-grizzly-client-1.8.3.jar 
+ lib/grizzly-framework-2.3.15-gfa.jar lib/grizzly-http-server-2.3.15-g
+ fa.jar lib/grizzly-http-2.3.15-gfa.jar lib/tyrus-client-1.8.3.jar lib
+ /tyrus-core-1.8.3.jar lib/tyrus-spi-1.8.3.jar lib/jackson-databind-2.
+ 5.3.jar lib/jackson-annotations-2.5.0.jar lib/jackson-core-2.5.3.jar 
+ lib/gson-2.8.1.jar
+Build-Jdk: 1.8.0_131
+Created-By: Maven Integration for Eclipse
+Main-Class: dota2autojoin.dota2autojoin.App
+
